@@ -1479,10 +1479,10 @@ a[href^="tel"] {
     color: var(--color-btn-primary-focus);
     border-color: var(--color-btn-primary-focus); }
 
-.btn--secondary-accent {
+/*.btn--secondary-accent {
   background-color: var(--color-body);
   color: var(--color-btn-primary);
-  border-color: var(--color-btn-primary); }
+  border-color: var(--color-btn-primary); }*/
   .btn--secondary-accent:not([disabled]):hover, .btn--secondary-accent:focus {
     background-color: var(--color-body);
     color: var(--color-btn-primary-focus);
